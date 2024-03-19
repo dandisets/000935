@@ -37,8 +37,8 @@ assetsSummary:
 citation: 'Prakash, Mansi; Murphy, Jeremy; Friedman, Nina; Pal, Akash; Bhagat, Yuvraj;
   Shaner, Nathan C.; Lipscombe, Diane; Hochgeschwender, Ute; Moore, Christopher I.;
   Crespo, Emmanuel L. (2024) Interluminescence:  Selective Control of Synaptically-Connected
-  Circuit Elements using bioluminescence (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000935/draft'
+  Circuit Elements using bioluminescence (Version 0.240319.2026) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.000935/0.240319.2026'
 contributor:
 - awardNumber: 1 R01 NS 120832-21
   name: National Institutes of Health (NIH)
@@ -108,6 +108,7 @@ description: 'This is the repository for in vivo extracellular electrophysiology
   into a saline well over an open craniotomy exposing barrel cortex. Time Intervals
   in the data set designate the start and stop times of Coelenterazine infusion in
   seconds.'
+doi: 10.48324/dandi.000935/0.240319.2026
 ethicsApproval:
 - contactPoint:
     email: IACUC@brown.edu
@@ -115,7 +116,7 @@ ethicsApproval:
     url: https://www.brown.edu/research/conducting-research-brown/research-compliance-irb-iacuc-coi-export-control-research-data-management-and-data-use-agreements/institutional-animal-care-and-use-committee-iacuc
   identifier: 20-09-0003
   schemaKey: EthicsApproval
-id: DANDI:000935/draft
+id: DANDI:000935/0.240319.2026
 identifier: DANDI:000935
 keywords:
 - Bioluminescence
@@ -125,7 +126,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000935/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000935/0.240319.2026/assets.yaml
 name: 'Interluminescence:  Selective Control of Synaptically-Connected Circuit Elements
   using bioluminescence'
 protocol:
@@ -148,6 +149,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.6
 studyTarget:
 - Test the efficacy of a bioluminescent-optogenetic synaptic construct in vivo
-url: https://dandiarchive.org/dandiset/000935/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000935/0.240319.2026
+version: 0.240319.2026
 wasGeneratedBy: []
